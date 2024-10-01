@@ -32,7 +32,7 @@ Run
 python update_data_from_wikiweb2m.py
 ```
 The corresponding split of the dataset will be saved in ```data/``` directory.
-The columns ```txt``` and ```img``` corresponding to the input article and image and ```summary``` column corresponds to the summary generated using self-refinment.
+The columns ```txt``` and ```img``` corresponding to the input article and image and ```summary``` column corresponds to the summary generated using self-refinement.
 
 
 ## Citing Our Work
